@@ -1,1 +1,1 @@
-# LBYEC2B_FinalProject_Ching-Kilayko
+# LBYEC2B_FinalProject_TeamHermes
