@@ -72,3 +72,6 @@ C Language Introduction. (2023, November 8). https://www.geeksforgeeks.org/c-		l
 Lemonaki, D. (2023, August 29). The C programming handbook for beginners. 		https://www.freecodecamp.org/news/the-c-programming-handbook-for-		beginners/#chapter-1
 Ravikiran, A. (2023, May 17). Use of C language: Everything you need to know. 		https://www.simplilearn.com/tutorials/c-tutorial/use-of-c-
 language#:~:text=C%20programming%20language%20is%20a,foundation%20in%20the%20process%20of
+
+VII. Project Presentation/Demonstration
+YouTube Link: https://youtu.be/zDF8zpqBJE4?si=dzuPbLzx6N5HM148
